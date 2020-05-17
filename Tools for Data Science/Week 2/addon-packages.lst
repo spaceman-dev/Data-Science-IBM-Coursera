@@ -1,0 +1,44 @@
+## PKI needs https from rforge repo
+install.packages('PKI',,'https://www.rforge.net/')
+
+packages <- c(
+  'base64enc',
+  'chron',
+  'curl',
+  'data.table',
+  'devtools',
+  'dplyr',
+  'ggmap',
+  'ggplot2',
+  'httr',
+  'ibmdbR',
+  'leaflet',
+  'mapproj',
+  'plyr',
+  'rattle',
+  'Rcpp',
+  'reshape2',
+  'rgdal',
+  'RGtk2',
+  'rJava',
+  'rmarkdown',
+  'RMySQL',
+  'RODBC',
+  'RPostgreSQL',
+  'rsconnect',
+  'rstan',
+  'shiny'
+)
+
+# Do not do dependencies = TRUE
+# That pulls in suggestions
+# Be explicit in order to control image size
+#
+# --no-test-load to avoid dependency on GDK and X11
+install.packages(
+  packages,
+  repos = 'http://cran.r-project.org/',
+  INSTALL_opts = c('--clean',
+    '--no-multiarch',
+    '--no-test-load')
+)
