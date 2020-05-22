@@ -1,82 +1,82 @@
 ,Postcode,Borough,Neighbourhood
 0, , ,Canadian postal codes
-1, ,M1A ,Not assigned
-2, ,M1Y ,Not assigned
-3, ,M1Z ,Not assigned
-4, ,M2A ,Not assigned
-5, ,M2B ,Not assigned
-6, ,M2C ,Not assigned
-7, ,M2E ,Not assigned
-8, ,M2G ,Not assigned
-9, ,M2S ,Not assigned
-10, ,M2T ,Not assigned
-11, ,M2V ,Not assigned
-12, ,M2W ,Not assigned
-13, ,M2X ,Not assigned
-14, ,M2Y ,Not assigned
-15, ,M2Z ,Not assigned
-16, ,M3E ,Not assigned
-17, ,M3G ,Not assigned
-18, ,M3P ,Not assigned
-19, ,M3R ,Not assigned
-20, ,M3S ,Not assigned
-21, ,M3T ,Not assigned
-22, ,M3V ,Not assigned
-23, ,M3W ,Not assigned
-24, ,M3X ,Not assigned
-25, ,M3Y ,Not assigned
-26, ,M3Z ,Not assigned
-27, ,M4Z ,Not assigned
-28, ,M5Y ,Not assigned
-29, ,M5Z ,Not assigned
-30, ,M6T ,Not assigned
-31, ,M6V ,Not assigned
-32, ,M6W ,Not assigned
-33, ,M6X ,Not assigned
-34, ,M6Y ,Not assigned
-35, ,M6Z ,Not assigned
-36, ,M7B ,Not assigned
-37, ,M7C ,Not assigned
-38, ,M7E ,Not assigned
-39, ,M7G ,Not assigned
-40, ,M7H ,Not assigned
-41, ,M7J ,Not assigned
-42, ,M7K ,Not assigned
-43, ,M7L ,Not assigned
-44, ,M7M ,Not assigned
-45, ,M7N ,Not assigned
-46, ,M7P ,Not assigned
-47, ,M7S ,Not assigned
-48, ,M7T ,Not assigned
-49, ,M7V ,Not assigned
-50, ,M7W ,Not assigned
-51, ,M7X ,Not assigned
-52, ,M7Z ,Not assigned
-53, ,M8A ,Not assigned
-54, ,M8B ,Not assigned
-55, ,M8C ,Not assigned
-56, ,M8E ,Not assigned
-57, ,M8G ,Not assigned
-58, ,M8H ,Not assigned
-59, ,M8J ,Not assigned
-60, ,M8K ,Not assigned
-61, ,M8L ,Not assigned
-62, ,M8M ,Not assigned
-63, ,M8N ,Not assigned
-64, ,M8P ,Not assigned
-65, ,M8R ,Not assigned
-66, ,M8S ,Not assigned
-67, ,M8T ,Not assigned
-68, ,M9E ,Not assigned
-69, ,M9G ,Not assigned
-70, ,M9H ,Not assigned
-71, ,M9J ,Not assigned
-72, ,M9K ,Not assigned
-73, ,M9S ,Not assigned
-74, ,M9T ,Not assigned
-75, ,M9X ,Not assigned
-76, ,M9Y ,Not assigned
-77, ,M9Z ,Not assigned
+1, ,M1A ,M1A 
+2, ,M1Y ,M1Y 
+3, ,M1Z ,M1Z 
+4, ,M2A ,M2A 
+5, ,M2B ,M2B 
+6, ,M2C ,M2C 
+7, ,M2E ,M2E 
+8, ,M2G ,M2G 
+9, ,M2S ,M2S 
+10, ,M2T ,M2T 
+11, ,M2V ,M2V 
+12, ,M2W ,M2W 
+13, ,M2X ,M2X 
+14, ,M2Y ,M2Y 
+15, ,M2Z ,M2Z 
+16, ,M3E ,M3E 
+17, ,M3G ,M3G 
+18, ,M3P ,M3P 
+19, ,M3R ,M3R 
+20, ,M3S ,M3S 
+21, ,M3T ,M3T 
+22, ,M3V ,M3V 
+23, ,M3W ,M3W 
+24, ,M3X ,M3X 
+25, ,M3Y ,M3Y 
+26, ,M3Z ,M3Z 
+27, ,M4Z ,M4Z 
+28, ,M5Y ,M5Y 
+29, ,M5Z ,M5Z 
+30, ,M6T ,M6T 
+31, ,M6V ,M6V 
+32, ,M6W ,M6W 
+33, ,M6X ,M6X 
+34, ,M6Y ,M6Y 
+35, ,M6Z ,M6Z 
+36, ,M7B ,M7B 
+37, ,M7C ,M7C 
+38, ,M7E ,M7E 
+39, ,M7G ,M7G 
+40, ,M7H ,M7H 
+41, ,M7J ,M7J 
+42, ,M7K ,M7K 
+43, ,M7L ,M7L 
+44, ,M7M ,M7M 
+45, ,M7N ,M7N 
+46, ,M7P ,M7P 
+47, ,M7S ,M7S 
+48, ,M7T ,M7T 
+49, ,M7V ,M7V 
+50, ,M7W ,M7W 
+51, ,M7X ,M7X 
+52, ,M7Z ,M7Z 
+53, ,M8A ,M8A 
+54, ,M8B ,M8B 
+55, ,M8C ,M8C 
+56, ,M8E ,M8E 
+57, ,M8G ,M8G 
+58, ,M8H ,M8H 
+59, ,M8J ,M8J 
+60, ,M8K ,M8K 
+61, ,M8L ,M8L 
+62, ,M8M ,M8M 
+63, ,M8N ,M8N 
+64, ,M8P ,M8P 
+65, ,M8R ,M8R 
+66, ,M8S ,M8S 
+67, ,M8T ,M8T 
+68, ,M9E ,M9E 
+69, ,M9G ,M9G 
+70, ,M9H ,M9H 
+71, ,M9J ,M9J 
+72, ,M9K ,M9K 
+73, ,M9S ,M9S 
+74, ,M9T ,M9T 
+75, ,M9X ,M9X 
+76, ,M9Y ,M9Y 
+77, ,M9Z ,M9Z 
 78,Agincourt ,M1S ,Scarborough
 79,"Alderwood, Long Branch ",M8W ,Etobicoke
 80,"Bathurst Manor, Wilson Heights, Downsview North ",M3H ,North York
